@@ -24,3 +24,7 @@
 LBP
 
 8)Cascade7.xml - -data cascade/ -vec pos1.vec -bg negative.txt -w 24 -h 24  -numPos 400 -numNeg 1000 -numStages 12 -precalcValBufSize  12000 -precalcIdxBufSize 12000 -minHitRate 1 -maxFalseAlarmRate 0.1 -mode ALL
+
+9) Cascade8.xml - -data cascade/ -vec pos1.vec -bg negative.txt -w 24 -h 24  -numPos 400 -numNeg 800 -numStages 12 -precalcValBufSize  12000 -precalcIdxBufSize 12000 -minHitRate 1 -maxFalseAlarmRate 0.1 
+
+10)Cascade.xml - -data cascade/ -vec pos1.vec -bg negative.txt -w 24 -h 24  -numPos 400 -numNeg 1000 -numStages 12 -precalcValBufSize  6000 -precalcIdxBufSize 6000 -minHitRate 0.999 -maxFalseAlarmRate 0.1 
