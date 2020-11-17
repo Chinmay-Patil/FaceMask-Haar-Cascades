@@ -5,6 +5,11 @@
 Here is the list of some pretrained model along with their training parameters. This is goo practise for computer vision begineers for facial mask recognition.
 
 
+
+Hardware
+
+
+
 1)Cascade0.xml - -data cascade/ -vec pos1.vec -bg negative.txt -w 24 -h 24  -numPos 400 -numNeg 600 -numStages 12 -precalcValBufSize  
 6000 -precalcIdxBufSize 6000 -minHitRate 1 -maxFalseAlarmRate 0.1
 
