@@ -8,6 +8,9 @@ Here is the list of some pretrained model along with their training parameters. 
 
 Hardware
 
+Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz (12 CPUs), ~2.6GHz
+GeForce RTX 2060
+
 
 
 1)Cascade0.xml - -data cascade/ -vec pos1.vec -bg negative.txt -w 24 -h 24  -numPos 400 -numNeg 600 -numStages 12 -precalcValBufSize  
